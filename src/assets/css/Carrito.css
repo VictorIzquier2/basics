@@ -1,0 +1,17 @@
+.carrito{
+  position: fixed;
+  width: 300px;
+  top: 0;
+  right: 0;
+  background-color: whitesmoke;
+  padding: 0 2rem;
+}
+
+.carrito li {
+  list-style: none;
+  font-weight: bold;
+}
+
+.subheader{
+  text-align: center;
+}
